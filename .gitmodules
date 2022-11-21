@@ -1,0 +1,3 @@
+[submodule "dataplate-app-client"]
+	path = dataplate-app-client
+	url = https://github.com/JaiPi/dataplate-app-client.git
